@@ -31,33 +31,3 @@ function currentLine(array) {
   return message2
 }
 
-/*
-
-beginning of the day, the deli is empty. represented by an empty var katzDeliLine = [];
-*/
-/*
-function takeANumbers accept the current line of people, katzDeliLine with the new person's name as parameters function should return their position in line. (actual no array position) 
-          use .push Name
-          console.log (message + .length+1)
-*/      
-/*   
-function nowServing.return the first person in line and then remove that individual from the line. nobody in line, it should return "There is nobody waiting to be served!"
-          if statement 
-            if >1 
-            console.log [0]
-            then .shift
-          if = .length = 0
-          console.log mensaje
-*/ 
-/*
-function currentLine currentLine(katzDeliLine) "The line is currently: 1. Ada, 2. Grace" "The line is currently empty."
-        
-        if statement 
-            if >1 
-            var array made via 
-            for loop
-            then console.log(` ${array}`)
-          if = .length = 0
-          console.log mensaje
-*/ 
-
